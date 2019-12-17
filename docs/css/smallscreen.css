@@ -1,0 +1,13 @@
+p {
+  font-size: 1.3em;
+  width: 100%;
+  max-width: 35em;
+  margin: 0 auto;
+}
+
+p::first-letter {
+  color: #c69c6d;
+  float: left;
+  font-size: 3.3em;
+  margin: 0 0 0 0;
+}

@@ -1,0 +1,12 @@
+html {
+  font: 100%/1.15 'IM Fell English', serif;
+  padding: 2em 0;
+  background: #fbfcfc;
+  color: #4c4e4d;
+}
+a {
+  color: #304ffe;
+}
+a:hover {
+  text-decoration: none;
+}
