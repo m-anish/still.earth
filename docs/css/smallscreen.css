@@ -1,6 +1,6 @@
 p {
-  font-size: 1.3em;
-  width: 100%;
+  font-size: 1.6em;
+  width: 90%;
   max-width: 35em;
   margin: 0 auto;
 }
@@ -8,6 +8,12 @@ p {
 p::first-letter {
   color: #c69c6d;
   float: left;
-  font-size: 3.3em;
+  font-size: 3.0em;
   margin: 0 0 0 0;
+}
+form {
+  width:90%;
+}
+input, select, textarea{
+  font-size: 1.6em;
 }
